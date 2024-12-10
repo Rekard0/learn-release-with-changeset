@@ -1,5 +1,5 @@
 {
-  "name": "@sarkawt/sarkawt-configs-monorepo",
+  "name": "@rekard0/rekard0-configs-monorepo",
   "version": "1.0.0",
   "main": "index.js",
   "publishConfig": {

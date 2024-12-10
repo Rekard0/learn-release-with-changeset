@@ -3,7 +3,7 @@
 set -euo pipefail
 
 # Define the mapping as an associative array
-mapping="contracts:@sarkawt/sarkawt-contracts-monorepo configs:@sarkawt/sarkawt-configs-monorepo"
+mapping="contracts:@rekard0/rekard0-contracts-monorepo configs:@rekard0/rekard0-configs-monorepo"
 
 package="${REF_NAME##*-}"
 

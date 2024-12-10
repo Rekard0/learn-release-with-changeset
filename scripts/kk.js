@@ -7,7 +7,7 @@ const workspacesInfo = JSON.parse(
   JSON.parse(execSync("yarn --silent --json workspaces info").toString()).data
 );
 
-let ll = workspacesInfo["@sarkawt/sarkawt-contracts-monorepo"].location;
+let ll = workspacesInfo["@rekard0/rekard0-contracts-monorepo"].location;
 
 let oo = path.join(ll, "package.json");
 
