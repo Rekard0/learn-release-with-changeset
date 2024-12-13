@@ -1,0 +1,9 @@
+{
+  "mode": "pre",
+  "tag": "alpha",
+  "initialVersions": {
+    "@sarkawt/sarkawt-configs-monorepo": "1.0.0",
+    "@sarkawt/sarkawt-contracts-monorepo": "1.0.0-alpha.2"
+  },
+  "changesets": []
+}
