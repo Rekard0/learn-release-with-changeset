@@ -6,6 +6,9 @@
   "publishConfig": {
     "access": "public"
   },
+  "scripts": {
+    "build": "node b.js"
+  },
   "files": [
     "index2.js"
   ],
